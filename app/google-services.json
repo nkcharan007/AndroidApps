@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "468352951372",
+    "firebase_url": "https://camera-11ddb.firebaseio.com",
+    "project_id": "camera-11ddb",
+    "storage_bucket": "camera-11ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468352951372:android:40f6ca3b70cc12c42f00e9",
+        "android_client_info": {
+          "package_name": "com.shopeco.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468352951372-d0sg56c7j1eff7a4822r6dtn3ev9nqed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shopeco.camera",
+            "certificate_hash": "27ab1b199e54441eafbe12e8184ef76bc9aeb54a"
+          }
+        },
+        {
+          "client_id": "468352951372-tnu4p2bnk4i20mrr34h8uq5ua2i1b0m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-WLvy25dK8jRq7fgTdu53SinNPRLYE5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468352951372-tnu4p2bnk4i20mrr34h8uq5ua2i1b0m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
